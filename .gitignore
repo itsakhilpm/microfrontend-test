@@ -1,0 +1,7 @@
+node_modules
+.next
+.scannerwork
+coverage/**
+.env
+dashboard-layout/node_modules
+app2/node_modules
